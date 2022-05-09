@@ -1,3 +1,4 @@
+mkdir -p files_nominal_emt_2016
 ./Make.sh FinalSelection2D_emt.cc
 ./FinalSelection2D_emt.exe /eos/cms/store/cmst3/user/ccaillol/whemt2016_20jul/SingleMuon.root files_nominal_emt_2016/SingleMuon.root SingleMuon data_obs minus 2016
 ./FinalSelection2D_emt.exe /eos/cms/store/cmst3/user/ccaillol/whemt2016_20jul/SingleElectron.root files_nominal_emt_2016/SingleElectron.root SingleElectron data_obs minus 2016

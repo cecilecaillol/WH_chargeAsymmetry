@@ -1,5 +1,5 @@
+mkdir -p files_nominal_ett_2017
 ./Make.sh FinalSelection2D_ett.cc
-
 ./FinalSelection2D_ett.exe /eos/cms/store/cmst3/user/ccaillol/whett2017_20jul/Data.root files_nominal_ett_2017/Data.root data_obs data_obs minus 2017 
 ./FinalSelection2D_ett.exe /eos/cms/store/cmst3/user/ccaillol/whett2017_20jul/WZ3LNu.root files_nominal_ett_2017/WZLLLNu.root WZLLLNu WZ minus 2017 
 ./FinalSelection2D_ett.exe /eos/cms/store/cmst3/user/ccaillol/whett2017_20jul/ZZ4L.root files_nominal_ett_2017/ZZ4L.root ZZ4L ZZ minus 2017 

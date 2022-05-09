@@ -1,3 +1,4 @@
+mkdir -p files_nominal_mmt_2018
 ./Make.sh FinalSelection2D_mmt.cc
 ./FinalSelection2D_mmt.exe /eos/cms/store/cmst3/user/ccaillol/whmmt2018_20jul/Data.root files_nominal_mmt_2018/Data.root data_obs data_obs minus 2018 
 ./FinalSelection2D_mmt.exe /eos/cms/store/cmst3/user/ccaillol/whmmt2018_20jul/WZ3LNu.root files_nominal_mmt_2018/WZ3LNu.root WZ3LNu WZ minus 2018

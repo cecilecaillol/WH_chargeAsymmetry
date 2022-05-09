@@ -1,3 +1,4 @@
+mkdir -p files_nominal_ett_2018
 ./Make.sh FinalSelection2D_ett.cc
 
 ./FinalSelection2D_ett.exe /eos/cms/store/cmst3/user/ccaillol/whett2018_20jul/Data.root files_nominal_ett_2018/Data.root data_obs data_obs minus 2018 
