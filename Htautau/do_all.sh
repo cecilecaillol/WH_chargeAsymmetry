@@ -1,0 +1,12 @@
+sh do_emt_2016.sh
+sh do_emt_2017.sh
+sh do_emt_2018.sh
+sh do_mmt_2016.sh 
+sh do_mmt_2017.sh
+sh do_mmt_2018.sh
+sh do_ett_2016.sh 
+sh do_ett_2017.sh
+sh do_ett_2018.sh
+sh do_mtt_2016.sh 
+sh do_mtt_2017.sh
+sh do_mtt_2018.sh
